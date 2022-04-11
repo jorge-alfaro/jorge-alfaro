@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jorge-alfaro
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning React and Laravel
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React and ASP.net
 
 
